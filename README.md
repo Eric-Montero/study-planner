@@ -75,4 +75,13 @@ frontend/
 
 ## Notas
 
--
+- **No se usa Tailwind CSS**. Todo el diseño es con CSS puro.
+- Si quieres usar Tailwind en el futuro, revisa la [documentación oficial](https://tailwindcss.com/docs/installation).
+
+---
+
+## Créditos
+
+Desarrollado por [Eric-Montero].
+
+---
